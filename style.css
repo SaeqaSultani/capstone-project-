@@ -114,7 +114,7 @@
   margin-left: 20px;
   margin-right: 20px;
   margin-top: -10px;
-  background-image: url("/image/bg_title.jfif");
+  background-image: url("./image/bg_title.jfif");
   background-clip: text;
   -webkit-background-clip: text;
   color: transparent;
@@ -530,7 +530,7 @@
     line-height: 60px;
     text-align: start;
     justify-content: center;
-    background-image: url("/image/bg_title.jfif");
+    background-image: url("./image/bg_title.jfif");
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
