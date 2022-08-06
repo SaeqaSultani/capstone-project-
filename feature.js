@@ -2,37 +2,37 @@ const secFeatured = document.getElementById('sec-featured');
 
 const featuredArr = [
   {
-    image: 'image/speaker_01.png',
+    image: './image/speaker_01.png',
     title: 'Ali',
     subtitle: 'Software Engineer and specialist',
     dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
   },
   {
-    image: 'image/speaker_02.png',
+    image: './image/speaker_02.png',
     title: 'Ahmad',
     subtitle: 'Software Devloper and specialist',
     dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
   },
   {
-    image: 'image/speaker_03.png',
+    image: './image/speaker_03.png',
     title: 'Youzef',
     subtitle: 'Mobile Application Devloper and specialist',
     dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
   },
   {
-    image: 'image/speaker_04.png',
+    image: './image/speaker_04.png',
     title: 'Youzef',
     subtitle: 'UX and UI desinger and specialist',
     dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
   },
   {
-    image: 'image/speaker_05.png',
+    image: './image/speaker_05.png',
     title: 'Youzef',
     subtitle: 'specialist',
     dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
   },
   {
-    image: 'image/speaker_06.png',
+    image: './image/speaker_06.png',
     title: 'Zaki',
     subtitle: 'Mobile Application Devloper and specialist',
     dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
