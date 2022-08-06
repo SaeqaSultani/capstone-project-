@@ -7,7 +7,7 @@ This is  my first capstone project  in this capstone project I managed to build 
 
 # Video Link :)
 
-[Video Link](https://www.loom.com/share/f41ed12987bb48008e044bdb05eb2ffd)
+[Video Link](https://www.loom.com/share/8f21f6b2cf174251b988ccd1c8d4aed0)
 
 
 # Live Demo :)
@@ -27,7 +27,7 @@ LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani-b41493187/)
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SaeqaSultani/Portfolio-Project/issues).
+Feel free to check the [issues page](https://github.com/SaeqaSultani/capstone-project-/issues).
 
 # Show your support
 Give a ⭐️ if you like this project!
@@ -37,4 +37,4 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 # 📝 License
-This project is [MIT](https://github.com/SaeqaSultani/Portfolio-Project/blob/mobile_menu/MIT.md) licensed.
+This project is [MIT](https://github.com/SaeqaSultani/capstone-project-/blob/capstone/MIT.md) licensed.
