@@ -2,30 +2,30 @@ const secMain = document.getElementById('sec-main');
 
 const arr = [
   {
-    profile: '/image/html.png',
+    profile: 'image/html.png',
     name: 'HTML',
-    dec: 'HTML is a markup language that web browsers use to interpret and compose text, images, and other material into visual or audible web pages.',
+    dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
   },
   {
-    profile: '/image/javascript.png',
-    name: 'JAVA SCRIPT',
-    dec: 'JavaScript is the Programming Language for the Web. JavaScript can update and change both HTML and CSS. JavaScript can calculate , manipulate and validate data.',
+    profile: 'image/css.png',
+    name: 'CSS',
+    dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
   },
   {
-    profile: '/image/php-code.png',
+    profile: 'image/php-code.png',
     name: 'PHP',
-    dec: 'PHP is a widely used server-side programming language that’s become increasingly fast and powerful over the years. PHP works well with HTML and databases, making it a great language for anyone interested in building dynamic web applications.',
+    dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
   },
   {
-    profile: '/image/python.png',
-    name: 'PYTHON',
-    dec: 'Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. ',
+    profile: 'image/c++.png',
+    name: 'C++',
+    dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
   },
 
   {
-    profile: '/image/java.png',
+    profile: 'image/java.png',
     name: 'JAVA',
-    dec: 'Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language.',
+    dec: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
   },
 ];
 

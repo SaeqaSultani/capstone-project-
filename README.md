@@ -7,12 +7,12 @@ This is  my first capstone project  in this capstone project I managed to build 
 
 # Video Link :)
 
-[Video Link](https://www.loom.com/share/8f21f6b2cf174251b988ccd1c8d4aed0)
+[Video Link](https://www.loom.com/share/b2fccbda142742a9ab1537f7a59413b9)
 
 
 # Live Demo :)
 
-[Live Demo Link](https://saeqasultani.github.io/Portfolio-Project/)
+[Live Demo Link](https://saeqasultani.github.io/capstone-project-/)
 
 # Authors
 
@@ -33,6 +33,7 @@ Feel free to check the [issues page](https://github.com/SaeqaSultani/capstone-pr
 Give a ⭐️ if you like this project!
 
 # Acknowledgments
+- Thank you to Cindy Sheen, the author of the original design of this site :[original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc

@@ -421,6 +421,10 @@
     margin-bottom: 5px;
   }
 
+  .div-top-item a {
+    text-decoration: none;
+  }
+
   .top-item {
     font-size: 15px;
     color: #fff;
@@ -428,6 +432,8 @@
     font-family: Poppins, sans-serif;
     margin: 10px;
   }
+
+
 
   .head-desk {
     height: 100px;

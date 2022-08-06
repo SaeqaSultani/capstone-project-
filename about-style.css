@@ -385,6 +385,10 @@
     margin-bottom: 5px;
   }
 
+  .div-top-item a {
+    text-decoration: none;
+  }
+
   .top-item {
     font-size: 15px;
     color: #fff;
