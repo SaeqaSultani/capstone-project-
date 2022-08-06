@@ -166,7 +166,7 @@
   justify-content: center;
   align-items: center;
   background-color: black;
-  background-image: url("/image/pattern_bg.png");
+  background-image: url("./image/pattern_bg.png");
   margin-left: -8px;
   margin-right: -8px;
 }
@@ -587,7 +587,7 @@
     justify-content: center;
     align-items: center;
     background-color: black;
-    background-image: url("/image/pattern_bg.png");
+    background-image: url("./image/pattern_bg.png");
     margin-left: -8px;
     margin-right: -8px;
     padding: 80px;
