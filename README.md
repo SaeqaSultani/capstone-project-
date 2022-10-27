@@ -1,4 +1,8 @@
+
 This is  my first capstone project  in this capstone project I managed to build the website based on an online website for an acodemy. using Html,CSS,JavaScript and  the provided design guidelines to create the website.
+
+![html](https://user-images.githubusercontent.com/74806645/198381464-c4a01067-67a3-48b2-b335-a9b6e50fba5d.png)
+
 
 # Built With
 - HTML & CSS and JavaScript
